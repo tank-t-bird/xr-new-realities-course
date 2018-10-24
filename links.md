@@ -9,7 +9,7 @@
 
 ## AR/VR Development Overview
 * [A Software Engineer’s Guide to Unity and AR/VR Development](https://blog.betawave.io/a-software-engineers-guide-to-unity-and-ar-vr-development-part-2-5d2a696e3b8c)
-* [VRTK, the VR plugin for Interactions]
+* [VRTK, the VR plugin for Interactions](https://vrtoolkit.readme.io/)
 
 ## Designing for XR (Spatial UI)
 * [Reality Design: A 60 second 'How to Guide"](https://medium.com/inborn-experience/reality-design-a-60-second-how-to-guide-f7a43709c9c6)
@@ -25,6 +25,7 @@ https://unity3d.com/learn/tutorials/s/interactive-tutorials
 https://unity3d.com/learn/tutorials
 
 Making Games Courses with Brackeys
+
 https://www.youtube.com/user/Brackeys/featured
 
 ## VR and AR Tutorials
@@ -78,7 +79,7 @@ Shader Graph Examples
 https://github.com/keijiro/ShaderGraphExamples
 
 
-### News
+## News
 * [Unite Los Angeles Event (happening now)](https://blogs.unity3d.com/2018/10/24/a-peek-at-the-new-visual-effect-graph-cinecast-our-first-sample-game-and-more-from-unite-los-angeles/)
 
 * [Tom Emrich's AR Roundup: October 2018](https://medium.com/super-ventures-blog/the-ar-roundup-october-2018-988b5368125f)
