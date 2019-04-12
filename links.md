@@ -30,10 +30,6 @@ https://www.youtube.com/user/Brackeys/featured
 
 ## VR and AR Tutorials
 
-Great Collection of VR tutorials from FusedVR
-
-https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ
-
 Five Minute AR with Wikitude
 
 https://www.youtube.com/watch?v=Dt3q2URF6b4
