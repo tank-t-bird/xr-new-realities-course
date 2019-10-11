@@ -3,7 +3,7 @@
 
 * [Tom Emrich](https://twitter.com/tomemrich)
 
-* [Kent Bye](https://twitter.com/kentbye/status/1054440480291733504)
+* [Kent Bye](https://twitter.com/kentbye)
 
 * [Dan Miller](https://twitter.com/DanMillerDev)
 
@@ -30,7 +30,7 @@ https://www.youtube.com/user/Brackeys/featured
 
 ## VR and AR Tutorials
 
-Great Collection of VR tutorials from FusedVR
+VR tutorials from FusedVR
 
 https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ
 
