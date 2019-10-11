@@ -10,6 +10,8 @@
 * [VR in Unity Start](https://learn.unity.com/tutorial/getting-started-with-vr)
 * [VRTK beginners Guide](https://learn.unity.com/project/vr-in-unity-a-beginner-s-guide)
 * [Getting Started with MRTK](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/GettingStartedWithTheMRTK.html)
+* [A Software Engineer’s Guide to Unity and AR/VR Development](https://blog.betawave.io/a-software-engineers-guide-to-unity-and-ar-vr-development-part-2-5d2a696e3b8c)
+* [VRTK, the VR plugin for Interactions](https://vrtoolkit.readme.io/)
 
 
 ## Designing for XR (Spatial UI)
@@ -19,9 +21,6 @@
 * [Templates for AR/VR Sketches](https://medium.com/inborn-experience/templates-for-ar-vr-sketches-e424dfb60e54)
 * [More Design Templates for MR](https://medium.com/inborn-experience/templates-for-ar-vr-sketches-e424dfb60e54)
 
-## AR/VR Development Overview
-* [A Software Engineer’s Guide to Unity and AR/VR Development](https://blog.betawave.io/a-software-engineers-guide-to-unity-and-ar-vr-development-part-2-5d2a696e3b8c)
-* [VRTK, the VR plugin for Interactions](https://vrtoolkit.readme.io/)
 
 ## Common Tasks and Issues in Unity
 * [Importing Animations into Unity](http://www.walterpalladino.com/how-to-import-mixamo-animations-in-unity/)
@@ -40,15 +39,12 @@
 * [Pictoplasma 2019](https://conference.pictoplasma.com/berlin2019/screenings2019/#comfort)
 * List of VR experiences (coming soon!)
 
-
-
 # Extras
 
-## Specific Tutorials used for a Musical AR Game
+## Various Tutorials
 
 Unity C# Creating and Deleting Object
 https://www.youtube.com/watch?v=XO-E6QaTniQ
-
 
 Unity C# Random Object Instantiation
 https://www.youtube.com/watch?v=kmU7d4SqbIk&t=24s
@@ -67,7 +63,6 @@ https://www.youtube.com/watch?v=BHdbBtGgfb8
 
 Unity 3D destroy Game Object On Collide
 https://www.youtube.com/watch?v=8nUgf6SSRRs
-
 
 Shader Graph Examples
 https://github.com/keijiro/ShaderGraphExamples
