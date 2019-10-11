@@ -2,15 +2,11 @@
 
 ## Learning Unity in General
 
-Official Unity Tutorials and Interactive Tutorials:
+* [Unity Interactive Tutorials](https://learn.unity.com/tutorial/interactive-tutorials-introductory-lessons)
 
-https://unity3d.com/learn/tutorials/s/interactive-tutorials
+* [Unity Learn Portal](https://learn.unity.com)
 
-https://unity3d.com/learn/tutorials
-
-Making Games Courses with Brackeys
-
-https://www.youtube.com/user/Brackeys/featured
+* [Making Games Courses with Brackeys](https://www.youtube.com/user/Brackeys/featured)
 
 
 ## Designing for XR (Spatial UI)
@@ -21,6 +17,18 @@ https://www.youtube.com/user/Brackeys/featured
 ## AR/VR Development Overview
 * [A Software Engineer’s Guide to Unity and AR/VR Development](https://blog.betawave.io/a-software-engineers-guide-to-unity-and-ar-vr-development-part-2-5d2a696e3b8c)
 * [VRTK, the VR plugin for Interactions](https://vrtoolkit.readme.io/)
+
+## Common Tasks and Issues in Unity
+* [Missing Materials on Mixamo models on import](https://www.youtube.com/watch?v=xOeodlLTx8g)
+
+* [Importing Animations From Blender / Blender to Unity](https://www.youtube.com/watch?v=3CSUxATQVLw)
+
+* [Introduction to audio in Unity](https://inclips.net/video/6OT43pvUyfY/introduction-to-audio-in-unity.html)
+
+* [Lighting And Post Processing Low Poly Scene](https://www.youtube.com/watch?v=IkRMMcPBFsc)
+
+## Inspiration
+* [Making a Music Video in Unity in One Hour](https://www.youtube.com/watch?v=opMcm-yUCAE)
 
 # Extras
 
@@ -45,17 +53,9 @@ https://www.youtube.com/watch?v=XMDfhHyOacM
 Aerial Explosion Tutorial Unity Shuriken
 https://www.youtube.com/watch?v=BHdbBtGgfb8
 
-Unity 5 - Importing Animations From Blender / Blender to Unity
-https://www.youtube.com/watch?v=3CSUxATQVLw
-
 Unity 3D destroy Game Object On Collide
 https://www.youtube.com/watch?v=8nUgf6SSRRs
 
-Introduction to AUDIO in Unity
-https://inclips.net/video/6OT43pvUyfY/introduction-to-audio-in-unity.html
-
-Unity 2017 Tutorial - Lighting And Post Processing Low Poly Scene
-https://www.youtube.com/watch?v=IkRMMcPBFsc
 
 Shader Graph Examples
 https://github.com/keijiro/ShaderGraphExamples
@@ -68,4 +68,5 @@ https://github.com/keijiro/ShaderGraphExamples
 * [Kent Bye](https://twitter.com/kentbye)
 
 * [Dan Miller](https://twitter.com/DanMillerDev)
-
+---------
+This page last updated 11.10,2019
