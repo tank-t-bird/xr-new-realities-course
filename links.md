@@ -1,20 +1,4 @@
-## AR/VR Influencers to follow
-* [Charlie Fink](http://www.charliefink.com/)
-
-* [Tom Emrich](https://twitter.com/tomemrich)
-
-* [Kent Bye](https://twitter.com/kentbye)
-
-* [Dan Miller](https://twitter.com/DanMillerDev)
-
-## AR/VR Development Overview
-* [A Software Engineer’s Guide to Unity and AR/VR Development](https://blog.betawave.io/a-software-engineers-guide-to-unity-and-ar-vr-development-part-2-5d2a696e3b8c)
-* [VRTK, the VR plugin for Interactions](https://vrtoolkit.readme.io/)
-
-## Designing for XR (Spatial UI)
-* [Reality Design: A 60 second 'How to Guide"](https://medium.com/inborn-experience/reality-design-a-60-second-how-to-guide-f7a43709c9c6)
-* [Templates for AR/VR Sketches](https://medium.com/inborn-experience/templates-for-ar-vr-sketches-e424dfb60e54)
-* [Strategies for VR Prototyping](https://medium.com/inborn-experience/strategies-for-vr-prototyping-810e0d3aa21d)
+# Primary Links
 
 ## Learning Unity in General
 
@@ -28,21 +12,19 @@ Making Games Courses with Brackeys
 
 https://www.youtube.com/user/Brackeys/featured
 
-## VR and AR Tutorials
 
-VR tutorials from FusedVR
+## Designing for XR (Spatial UI)
+* [Reality Design: A 60 second 'How to Guide"](https://medium.com/inborn-experience/reality-design-a-60-second-how-to-guide-f7a43709c9c6)
+* [Templates for AR/VR Sketches](https://medium.com/inborn-experience/templates-for-ar-vr-sketches-e424dfb60e54)
+* [Strategies for VR Prototyping](https://medium.com/inborn-experience/strategies-for-vr-prototyping-810e0d3aa21d)
 
-https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ
+## AR/VR Development Overview
+* [A Software Engineer’s Guide to Unity and AR/VR Development](https://blog.betawave.io/a-software-engineers-guide-to-unity-and-ar-vr-development-part-2-5d2a696e3b8c)
+* [VRTK, the VR plugin for Interactions](https://vrtoolkit.readme.io/)
 
-Five Minute AR with Wikitude
+# Extras
 
-https://www.youtube.com/watch?v=Dt3q2URF6b4
-
-Six minute AR with Vuforia
-
-https://www.youtube.com/watch?v=lMFn8eTwePI
-
-## Specific Tutorials used for the Musical AR game made by Daniel
+## Specific Tutorials used for a Musical AR Game
 
 Unity C# Creating and Deleting Object
 https://www.youtube.com/watch?v=XO-E6QaTniQ
@@ -78,8 +60,12 @@ https://www.youtube.com/watch?v=IkRMMcPBFsc
 Shader Graph Examples
 https://github.com/keijiro/ShaderGraphExamples
 
+## AR/VR Influencers to follow
+* [Charlie Fink](http://www.charliefink.com/)
 
-## News
-* [Unite Los Angeles Event (happening now)](https://blogs.unity3d.com/2018/10/24/a-peek-at-the-new-visual-effect-graph-cinecast-our-first-sample-game-and-more-from-unite-los-angeles/)
+* [Tom Emrich](https://twitter.com/tomemrich)
 
-* [Tom Emrich's AR Roundup: October 2018](https://medium.com/super-ventures-blog/the-ar-roundup-october-2018-988b5368125f)
+* [Kent Bye](https://twitter.com/kentbye)
+
+* [Dan Miller](https://twitter.com/DanMillerDev)
+
