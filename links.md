@@ -15,7 +15,6 @@
 
 
 ## Designing for XR (Spatial UI)
-* [Reality Design: A 60 second 'How to Guide"](https://medium.com/inborn-experience/reality-design-a-60-second-how-to-guide-f7a43709c9c6)
 * [Strategies for VR Prototyping](https://medium.com/inborn-experience/strategies-for-vr-prototyping-810e0d3aa21d)
 * [Creating User Flows for MR](https://blog.prototypr.io/creating-user-flows-for-mixed-reality-1986f8b85247)
 * [Templates for AR/VR Sketches](https://medium.com/inborn-experience/templates-for-ar-vr-sketches-e424dfb60e54)
@@ -39,9 +38,7 @@
 * [Pictoplasma 2019](https://conference.pictoplasma.com/berlin2019/screenings2019/#comfort)
 * List of VR experiences (coming soon!)
 
-# Extras
-
-## Various Tutorials
+## C# Tutorials (Unity)
 
 Unity C# Creating and Deleting Object
 https://www.youtube.com/watch?v=XO-E6QaTniQ
@@ -67,12 +64,12 @@ https://www.youtube.com/watch?v=8nUgf6SSRRs
 Shader Graph Examples
 https://github.com/keijiro/ShaderGraphExamples
 
-## AR/VR Influencers to follow
+## Some AR Influencers to follow
 * [Charlie Fink](http://www.charliefink.com/)
 
 * [Tom Emrich](https://twitter.com/tomemrich)
 
-* [Kent Bye](https://twitter.com/kentbye)
+* [Timoni West](https://twitter.com/timoni)
 
 * [Dan Miller](https://twitter.com/DanMillerDev)
 ---------
